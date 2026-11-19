@@ -4,24 +4,36 @@
     "title": "Orange-haired portrait",
     "image": "/assets/dhmx-orange-portrait.webp",
     "medium": "Physical original · materials confirmed on enquiry",
-    "dimensions": "Dimensions confirmed before purchase",
+    "dimensions": "Planned outer presentation: 91.44 cm H × 201.9 cm W (3 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "price": 5000,
     "status": "available",
     "edition": "Newer original · 2 of 2 per design",
     "sourceImage": "/assets/dhmx-original-reference.jpg",
-    "description": "An expressive painted portrait with orange hair, dark earth tones and vivid red lips. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece."
+    "description": "An expressive painted portrait with orange hair, dark earth tones and vivid red lips. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece.",
+    "plannedSize": {
+      "heightCm": 91.44,
+      "widthCm": 201.9,
+      "heightFeet": 3,
+      "status": "planned_outer_presentation"
+    }
   },
   {
     "id": "DHMX-GREEN-02",
     "title": "Green-glasses portrait",
     "image": "/assets/dhmx-green-portrait.webp",
     "medium": "Physical original · materials confirmed on enquiry",
-    "dimensions": "Dimensions confirmed before purchase",
+    "dimensions": "Planned outer presentation: 91.44 cm H × 201.9 cm W (3 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "price": 5000,
     "status": "available",
     "edition": "Newer original · 2 of 2 per design",
     "sourceImage": "/assets/dhmx-original-reference.jpg",
-    "description": "A character portrait with square green glasses, textured curls and fine drawn detail. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece."
+    "description": "A character portrait with square green glasses, textured curls and fine drawn detail. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece.",
+    "plannedSize": {
+      "heightCm": 91.44,
+      "widthCm": 201.9,
+      "heightFeet": 3,
+      "status": "planned_outer_presentation"
+    }
   },
   {
     "id": "DHMX-INNER-CHILD-01",
@@ -29,11 +41,17 @@
     "image": "/assets/dhmx-inner-child.webp",
     "imageAlt": "Inner Child: a layered composition of an adult comforting a child, with landscape and memory imagery",
     "medium": "Digital composition · final physical format confirmed on enquiry",
-    "dimensions": "Dimensions confirmed before purchase",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "price": 25000,
     "status": "available",
     "edition": "Single-piece edition · 1 of 1",
-    "description": "A layered narrative of an adult comforting a child, surrounded by fragments of childhood, landscape and reflection. Offered as a one-piece edition at an artist-set asking price of £25,000. The supplied image is a digital artwork presentation; final material, dimensions and any included rights are confirmed before purchase."
+    "description": "A layered narrative of an adult comforting a child, surrounded by fragments of childhood, landscape and reflection. Offered as a one-piece edition at an artist-set asking price of £25,000. The supplied image is a digital artwork presentation; final material, dimensions and any included rights are confirmed before purchase.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
   },
   {
     "id": "DHMX-STRONG-HERE-01",
@@ -41,10 +59,16 @@
     "image": "/assets/dhmx-you-can-stop-being-strong.webp",
     "imageAlt": "You Can Stop Being Strong Here: an adult and child held in a quiet embrace against a muted landscape",
     "medium": "Digital composition · final physical format confirmed on enquiry",
-    "dimensions": "Dimensions confirmed before purchase",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "price": 33000,
     "status": "available",
-    "description": "A quiet embrace set within a muted landscape and layered, brush-like textures. An intimate composition about shelter, tenderness and the permission to rest. Artist-set asking price: £33,000. Final format, dimensions, edition details and any included rights are confirmed before purchase."
+    "description": "A quiet embrace set within a muted landscape and layered, brush-like textures. An intimate composition about shelter, tenderness and the permission to rest. Artist-set asking price: £33,000. Final format, dimensions, edition details and any included rights are confirmed before purchase.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
   },
   {
     "id": "DHMX-BECOMING-01",
@@ -52,9 +76,15 @@
     "image": "/assets/dhmx-somewhere-inside-becoming.webp",
     "imageAlt": "A surreal landscape of winding paths, open doorways, red stairs, a floating mirror, blue waves and a resting cat",
     "medium": "Digital composition · final physical format confirmed on enquiry",
-    "dimensions": "Dimensions confirmed before purchase",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "price": 14000,
     "status": "available",
-    "description": "A surreal landscape of winding paths, open doorways and red stairs, held between a floating mirror, rolling blue forms and a resting cat. A composition about change, memory and finding a place within the journey. Artist-set asking price: £14,000. Final format, dimensions, edition details and any included rights are confirmed before purchase."
+    "description": "A surreal landscape of winding paths, open doorways and red stairs, held between a floating mirror, rolling blue forms and a resting cat. A composition about change, memory and finding a place within the journey. Artist-set asking price: £14,000. Final format, dimensions, edition details and any included rights are confirmed before purchase.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
   }
 ]
