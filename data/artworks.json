@@ -45,5 +45,16 @@
     "price": 33000,
     "status": "available",
     "description": "A quiet embrace set within a muted landscape and layered, brush-like textures. An intimate composition about shelter, tenderness and the permission to rest. Artist-set asking price: £33,000. Final format, dimensions, edition details and any included rights are confirmed before purchase."
+  },
+  {
+    "id": "DHMX-BECOMING-01",
+    "title": "Somewhere Inside All This Becoming.",
+    "image": "/assets/dhmx-somewhere-inside-becoming.webp",
+    "imageAlt": "A surreal landscape of winding paths, open doorways, red stairs, a floating mirror, blue waves and a resting cat",
+    "medium": "Digital composition · final physical format confirmed on enquiry",
+    "dimensions": "Dimensions confirmed before purchase",
+    "price": 14000,
+    "status": "available",
+    "description": "A surreal landscape of winding paths, open doorways and red stairs, held between a floating mirror, rolling blue forms and a resting cat. A composition about change, memory and finding a place within the journey. Artist-set asking price: £14,000. Final format, dimensions, edition details and any included rights are confirmed before purchase."
   }
 ]
