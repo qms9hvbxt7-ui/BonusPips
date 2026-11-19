@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "DHMX-ORANGE-02",
+    "title": "Orange-haired portrait",
+    "image": "/assets/dhmx-orange-portrait.webp",
+    "medium": "Physical original · materials confirmed on enquiry",
+    "dimensions": "Dimensions confirmed before purchase",
+    "price": 5000,
+    "status": "available",
+    "edition": "Newer original · 2 of 2 per design",
+    "sourceImage": "/assets/dhmx-original-reference.jpg",
+    "description": "An expressive painted portrait with orange hair, dark earth tones and vivid red lips. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece."
+  },
+  {
+    "id": "DHMX-GREEN-02",
+    "title": "Green-glasses portrait",
+    "image": "/assets/dhmx-green-portrait.webp",
+    "medium": "Physical original · materials confirmed on enquiry",
+    "dimensions": "Dimensions confirmed before purchase",
+    "price": 5000,
+    "status": "available",
+    "edition": "Newer original · 2 of 2 per design",
+    "sourceImage": "/assets/dhmx-original-reference.jpg",
+    "description": "A character portrait with square green glasses, textured curls and fine drawn detail. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece."
+  }
+]
