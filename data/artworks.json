@@ -42,10 +42,10 @@
     "imageAlt": "Inner Child: a layered composition of an adult comforting a child, with landscape and memory imagery",
     "medium": "Digital composition · final physical format confirmed on enquiry",
     "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
-    "price": 25000,
+    "price": 10000,
     "status": "available",
     "edition": "Single-piece edition · 1 of 1",
-    "description": "A layered narrative of an adult comforting a child, surrounded by fragments of childhood, landscape and reflection. Offered as a one-piece edition at an artist-set asking price of £25,000. The supplied image is a digital artwork presentation; final material, dimensions and any included rights are confirmed before purchase.",
+    "description": "A layered narrative of an adult comforting a child, surrounded by fragments of childhood, landscape and reflection. Offered as a one-piece edition at an artist-set asking price of £10,000. The supplied image is a digital artwork presentation; final material, dimensions and any included rights are confirmed before purchase.",
     "plannedSize": {
       "heightCm": 152.4,
       "widthCm": 201.9,
@@ -80,6 +80,74 @@
     "price": 14000,
     "status": "available",
     "description": "A surreal landscape of winding paths, open doorways and red stairs, held between a floating mirror, rolling blue forms and a resting cat. A composition about change, memory and finding a place within the journey. Artist-set asking price: £14,000. Final format, dimensions, edition details and any included rights are confirmed before purchase.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
+  },
+  {
+    "id": "DHMX-BECOMING-OG",
+    "title": "Somewhere Inside All This Becoming. — OG",
+    "image": "/assets/dhmx-becoming-og.jpeg",
+    "imageAlt": "Monochrome sketch with a floating mirror, winding paths, doorways, a stairway and a resting cat",
+    "price": 8000,
+    "medium": "Digital sketch presentation · final physical format confirmed on enquiry",
+    "description": "A monochrome sketch study of Somewhere Inside All This Becoming., with winding paths, a suspended mirror, doorways, stairs and a curled-up cat. A separate sketch listing from the colour composition.",
+    "status": "available",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
+  },
+  {
+    "id": "DHMX-INNER-CHILD-OG",
+    "title": "Inner Child — OG",
+    "image": "/assets/dhmx-inner-child-og.jpeg",
+    "imageAlt": "Monochrome sketch of an adult comforting a child, with a larger portrait, a toy train, a cat and receding doorways",
+    "price": 8000,
+    "medium": "Digital sketch presentation · final physical format confirmed on enquiry",
+    "description": "A monochrome sketch study of Inner Child, combining a comforting embrace with a larger portrait and fragments of childhood. This sketch is offered separately from the colour Inner Child listing.",
+    "status": "available",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
+  },
+  {
+    "id": "DHMX-STRONG-HERE-OG",
+    "title": "You Can Stop Being Strong Here. — OG",
+    "image": "/assets/dhmx-strong-here-og.jpeg",
+    "imageAlt": "Monochrome portrait-format sketch of an adult and child in a close, sheltering embrace",
+    "price": 8000,
+    "medium": "Digital sketch presentation · final physical format confirmed on enquiry",
+    "description": "A monochrome sketch study of You Can Stop Being Strong Here., focused on a quiet embrace and loose pen-like lines. A separate sketch listing from the colour composition.",
+    "status": "available",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
+    "plannedSize": {
+      "heightCm": 152.4,
+      "widthCm": 201.9,
+      "heightFeet": 5,
+      "status": "planned_outer_presentation"
+    }
+  },
+  {
+    "id": "NS-MC-001",
+    "title": "N&S MC #001",
+    "image": "/assets/dhmx-ns-mc-001.jpeg",
+    "imageAlt": "Photographed character sketch on paper of a figure with locs, wearing a hooded top",
+    "price": 9999.99,
+    "medium": "Sketch presentation · materials confirmed on enquiry",
+    "description": "The first N&S MC character-study listing: a figure with locs and a hooded top, shown in the supplied photograph of the drawing. Final material, physical presentation and purchase details are confirmed on enquiry.",
+    "status": "available",
+    "dimensions": "Planned outer presentation: 152.4 cm H × 201.9 cm W (5 ft high). Image fitted proportionally; final materials and framing agreed before production.",
     "plannedSize": {
       "heightCm": 152.4,
       "widthCm": 201.9,
