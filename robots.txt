@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonuspips.co.uk/sitemap.xml
