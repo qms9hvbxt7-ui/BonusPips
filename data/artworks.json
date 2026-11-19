@@ -22,5 +22,17 @@
     "edition": "Newer original · 2 of 2 per design",
     "sourceImage": "/assets/dhmx-original-reference.jpg",
     "description": "A character portrait with square green glasses, textured curls and fine drawn detail. Artist-declared limited original series. The displayed image is a digitally polished canvas-style presentation, not an unedited photograph of the physical piece."
+  },
+  {
+    "id": "DHMX-INNER-CHILD-01",
+    "title": "Inner Child",
+    "image": "/assets/dhmx-inner-child.webp",
+    "imageAlt": "Inner Child: a layered composition of an adult comforting a child, with landscape and memory imagery",
+    "medium": "Digital composition · final physical format confirmed on enquiry",
+    "dimensions": "Dimensions confirmed before purchase",
+    "price": 25000,
+    "status": "available",
+    "edition": "Single-piece edition · 1 of 1",
+    "description": "A layered narrative of an adult comforting a child, surrounded by fragments of childhood, landscape and reflection. Offered as a one-piece edition at an artist-set asking price of £25,000. The supplied image is a digital artwork presentation; final material, dimensions and any included rights are confirmed before purchase."
   }
 ]
