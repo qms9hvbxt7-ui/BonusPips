@@ -8,8 +8,9 @@
   if(!work||typeof work.title!=='string'||typeof work.image!=='string'||!/^\/assets\/[a-zA-Z0-9_./-]+\.(jpg|jpeg|png|webp)$/.test(work.image)||typeof work.dimensions!=='string'||typeof work.medium!=='string'||!['available','sold'].includes(work.status)||(work.price!==null&&(typeof work.price!=='number'||!Number.isFinite(work.price)||work.price<0)))throw Error();
   document.title=work.title+' | Dhmx Arts | BonusPips';
   const presentation=el('div',undefined,'work-presentation'),image=el('img');image.className='work-image';image.src=work.image;image.alt=typeof work.imageAlt==='string'?work.imageAlt:work.title+' artwork presentation';presentation.append(image);
-  const signatureRow=el('div',undefined,'artwork-signature-row'),signature=el('img');signature.className='artist-signature';signature.src='/assets/dhmx-artist-signature.png';signature.alt='Samuel Yakub artist signature mark';signatureRow.append(signature);presentation.append(signatureRow);
+  if(work.signatureEmbedded!==true){const signatureRow=el('div',undefined,'artwork-signature-row'),signature=el('img');signature.className='artist-signature';signature.src='/assets/dhmx-artist-signature.png';signature.alt='Samuel Yakub artist signature mark';signatureRow.append(signature);presentation.append(signatureRow);}
   const details=el('div',undefined,'work-details');details.append(el('p','Dhmx Arts · A BonusPips brand','eyebrow'),el('h1',work.title),el('span',work.status==='sold'?'Sold':'Available to enquire','pill'));
+  if(typeof work.artist==='string')details.append(el('p','By '+work.artist,'edition'));
   if(work.price!==null)details.append(el('p',new Intl.NumberFormat('en-GB',{style:'currency',currency:'GBP',minimumFractionDigits:Number.isInteger(work.price)?0:2,maximumFractionDigits:2}).format(work.price),'price'));
   if(typeof work.edition==='string')details.append(el('p',work.edition,'edition'));
   details.append(el('p',work.medium),el('p',work.dimensions,'small'));
